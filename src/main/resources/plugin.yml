@@ -1,0 +1,4 @@
+main: me.ssg.epicpotter.Main
+name: EpicPotter
+version: 1.0
+description: A Harry Potter plugin.
